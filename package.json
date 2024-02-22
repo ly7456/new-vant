@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "vant": "^4.8.4",
+    "vant-green": "^1.0.44",
     "vue": "^3.2.13"
   },
   "devDependencies": {
